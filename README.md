@@ -1,6 +1,5 @@
 ### Hi there, I'm Malik👋
 <br />
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Malik-4444&theme=dracula"></div>
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Malik-4444&color=blueviolet)&nbsp;&nbsp; ![Profile Followers](https://img.shields.io/badge/Followers-2-blueviolet)&nbsp;&nbsp; ![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp; ![Profile Stars](https://img.shields.io/badge/Stars-0-blueviolet) 
