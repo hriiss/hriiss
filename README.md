@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-bcogibbqo.vercel.app/api/spotify.py" alt="Hris Spotify Playing" width="350" />](https://open.spotify.com/user/hris)
+[<img src="https://novatorem-bcogibbqo.vercel.app/api/spotify.py" alt="Hris Spotify Playing" width="350" />](https://open.spotify.com/user/781ms0l5297m5liu5qay326s2)
 
 
 
