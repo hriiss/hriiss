@@ -1,4 +1,9 @@
 ### Hi there, I'm Hris👋
+
+### I am the Creator of [Kaguya](https://kaguyabot.me/invite)!
+ <a href="https://top.gg/bot/823675029652504617">
+  <img src="https://top.gg/api/widget/823675029652504617.svg" alt="Kaguya" />
+  </a>
 <br />
 <br />
 
