@@ -20,12 +20,6 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]<br />
 <br />
 
- <a href="https://top.gg/bot/823675029652504617">
-  <img src="https://top.gg/api/widget/823675029652504617.svg" alt="Kaguya" />
-  </a>
-<br />
-<br />
-
 
 [Discord]: https://instagram.com/codeSTACKr
 [vsc]: https://code.visualstudio.com/
