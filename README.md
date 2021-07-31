@@ -1,4 +1,4 @@
-### Hi there, I'm Hris👋
+## hi
 
 
 ![Discord](https://discord.c99.nl/widget/theme-4/675280674994782208.png)
