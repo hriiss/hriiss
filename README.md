@@ -4,12 +4,6 @@
 ![Discord](https://discord.c99.nl/widget/theme-4/675280674994782208.png)
 
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-bcogibbqo.vercel.app/api/spotify.py" alt="Hris Spotify Playing" width="350" />](https://open.spotify.com/user/781ms0l5297m5liu5qay326s2)
-
-
-
 <br />
 
 ### Languages and Tools:
