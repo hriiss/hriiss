@@ -1,18 +1,28 @@
-## hi
+```zsh
+> neofetch
+```
 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/" alt="220px-Red_star.svg.png" width="200" /> 
 
-![Discord](https://discord.c99.nl/widget/theme-4/675280674994782208.png)
+```csharp
+github.com/hris69
+----------------
+       OS  :  Windows 10
+     Name  :  Hris
+Languages  :  Python
+  Discord  :  V8 HR#1001
+```
 
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/4ca4eb/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/d74681/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/60409c/000000?text=+" width="25" height="20" />
+  <img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
-
-[<img align="left" alt="PyCharm" width="26px" src="https://camo.githubusercontent.com/1be7cd9dfbe9b65bafc8ce62145e18110216487476877bed331513c0029432a0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31642f5079436861726d5f49636f6e2e7376672f37363870782d5079436861726d5f49636f6e2e7376672e706e67" />][pycharm]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]<br />
-<br />
-
-[Discord]: https://instagram.com/codeSTACKr
-[vsc]: https://code.visualstudio.com/
-[python]: https://www.python.org/
-[pycharm]: https://www.jetbrains.com/de-de/pycharm/
+![](https://komarev.com/ghpvc/?username=ecriminal&style=flat-square)
+<p style="font-size: 6px">README inspired by <a href="https://github.com/ecriminal/ecriminal">sreecha</a></p>
