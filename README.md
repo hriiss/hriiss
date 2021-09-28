@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/" alt="220px-Red_star.svg.png" width="200" /> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/" width="200" /> 
 
 ```csharp
 github.com/hris69
