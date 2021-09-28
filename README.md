@@ -24,4 +24,3 @@ Languages  :  Python
 
 ---
 
-<p style="font-size: 6px">README inspired by <a href="https://github.com/ecriminal/ecriminal">sreecha</a></p>
