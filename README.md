@@ -10,7 +10,7 @@ github.com/hris69
        OS  :  Windows 10
      Name  :  Hris
 Languages  :  Python
-  Discord  :  V8 HR#1001
+  Discord  :  V8 H#0005
 ```
 
 <p align="left">
