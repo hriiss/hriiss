@@ -9,7 +9,7 @@ github.com/hris69
 ----------------
        OS  :  Windows 10
      Name  :  Hris
-Languages  :  Python
+Languages  :  Python & C#
   Discord  :  V8 H#0005
 ```
 
