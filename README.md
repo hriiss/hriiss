@@ -5,9 +5,8 @@
 github.com/hris69
 ----------------
        OS  :  Windows 10
-     Name  :  Hris
 Languages  :  Python & C#
-  Discord  :  hris'V8#6666
+  Discord  :  hris#0001
 ```
 
 <p align="left">
