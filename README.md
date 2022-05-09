@@ -12,3 +12,4 @@ Languages  :  Python & C#
 
 ---
 
+![](https://komarev.com/ghpvc/?username=hris69)
