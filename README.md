@@ -6,7 +6,7 @@ github.com/hris69
 ----------------
        OS  :  Windows 10
 Languages  :  Python & C#
-  Discord  :  hris#0001
+  Discord  :  hris#7777
 ```
 
 
