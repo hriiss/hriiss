@@ -5,5 +5,3 @@
 github.com/hriiss
 dc  $  hris#9999
 ```
-
-![](https://github-readme-stats.vercel.app/api?username=hriiss&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
