@@ -5,6 +5,8 @@
 github.com/hriiss
 dc  $  hris#9999
 ```
-
+\
+\
 ![](https://komarev.com/ghpvc/?username=hris69)
+\
 [![Bots for Discord](https://discords.com/bots/api/bot/1103818675443748967/widget)](https://discords.com/bots/bots/1103818675443748967)
