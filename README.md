@@ -3,7 +3,8 @@
 
 ```csharp
 github.com/hriiss
-dc  $  hris#9999
+dc   $  @popaperc
+srv  $  discord.gg/guns
 ```
 &zwnj; 
 &zwnj; 
